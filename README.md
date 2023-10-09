@@ -8,7 +8,6 @@ I am currently working on some exciting projects that I will soon be making publ
        
        🎮 A connect 4 game with a twist!
 
-Stay tuned for updates on these projects and more!
 ### Contact Me
 If you would like to connect with me or learn more about my work, please check out my [LinkedIn](https://www.linkedin.com/in/arsh-aps/) profile.
 
