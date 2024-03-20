@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome to My Github Repository!
+## Issa me 👋
 ### About Me
-I am a 3rd year computer science student with a passion for creating programs that make people's daily lives easier. I have experience in various programming languages such as Python, Java, and C. My goal is to develop practical software solutions that solve common problems people face in their day-to-day lives.
+I am a 3rd year computer science student with a passion for creating programs that make people's daily lives easier. I have experience in various programming languages such as Python, Java, and C. 
 ### My Projects
 I am currently working on some exciting projects that I will soon be making public on Github. These projects include:
 
