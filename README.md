@@ -1,12 +1,13 @@
 ## Issa me 👋
 ### About Me
-I am a 3rd year computer science student with a passion for creating programs that make people's daily lives easier. I have experience in various programming languages such as Python, Java, and C. 
+I'm a graduate computer science student with a passion for creating programs that make people's daily lives easier. I have experience in various programming languages such as Python, Java, and C. 
 ### My Projects
 I am currently working on some exciting projects that I will soon be making public on Github. These projects include:
 
-       🍝 A recipe manager and calorie tracking app.
+       📝 A web-based resume editor enhanced by AI.
        
-       🎮 A connect 4 game with a twist!
+       🍝 A recipe manager and calorie tracking app.
+
 
 ### Contact Me
 If you would like to connect with me or learn more about my work, please check out my [LinkedIn](https://www.linkedin.com/in/arsh-aps/) profile.
