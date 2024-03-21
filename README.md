@@ -10,7 +10,7 @@ I am currently working on some exciting projects that I will soon be making publ
 
 
 ### Contact Me
-If you would like to connect with me or learn more about my work, please check out my [LinkedIn](https://www.linkedin.com/in/arsh-aps/) profile.
+If you would like to connect with me or learn more about my work, check out my [LinkedIn](https://www.linkedin.com/in/arsh-aps/) profile.
 
 <!--
 **arsh-aps/arsh-aps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
